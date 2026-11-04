@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+packaging/*.icns
+packaging/*.png
+.DS_Store
+*.log
+*.db
+*.db-*
+
+# Local tooling
+.claude-flow/
+.swarm/
+.claude/
+.mcp.json
+graphify-out/

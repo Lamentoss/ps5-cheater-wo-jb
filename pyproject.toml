@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ps5-cheater-wo-jb"
+version = "0.1.0"
+description = "Run in-game button cheat codes on a stock PS5 over Remote Play, with a web app and an MCP server."
+readme = "README.md"
+license = "GPL-3.0-or-later"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "pyremoteplay==0.7.6",
+  "pyee==8.2.2",
+  "async-timeout==5.0.1",
+  "av==13.1.0",
+  "pillow>=10",
+  "netifaces>=0.11",
+  "aiohttp>=3.9",
+  "mcp>=1.12,<2",
+  "uvicorn>=0.30",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.23", "pyinstaller>=6.6"]
+
+[project.scripts]
+ps5-cheater = "ps5cheater.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ps5cheater = ["static/*", "seed/*.json"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+asyncio_mode = "auto"

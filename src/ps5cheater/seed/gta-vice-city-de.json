@@ -1,0 +1,276 @@
+{
+  "revision": 1,
+  "game": {
+    "id": "gta-vice-city-definitive-edition",
+    "title": "GTA: Vice City - The Definitive Edition",
+    "platform": "PS5",
+    "notes": "Using cheats permanently disables trophies on that save. There is no money cheat in this game.",
+    "source": "https://www.gtabase.com/gta-vice-city/gta-vice-city-cheats-ps5-ps4-ps3-ps2"
+  },
+  "cheats": [
+    {
+      "name": "Full health and vehicle repair",
+      "category": "Player",
+      "sequence": "R1 R2 L1 CIRCLE LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP",
+      "verified": true
+    },
+    {
+      "name": "Full armor",
+      "category": "Player",
+      "sequence": "R1 R2 L1 CROSS LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP"
+    },
+    {
+      "name": "Weapon set 1",
+      "category": "Player",
+      "sequence": "R1 R2 L1 R2 LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP"
+    },
+    {
+      "name": "Weapon set 2",
+      "category": "Player",
+      "sequence": "R1 R2 L1 R2 LEFT DOWN RIGHT UP LEFT DOWN DOWN LEFT"
+    },
+    {
+      "name": "Weapon set 3",
+      "category": "Player",
+      "sequence": "R1 R2 L1 R2 LEFT DOWN RIGHT UP LEFT DOWN DOWN DOWN"
+    },
+    {
+      "name": "Remove wanted level",
+      "category": "Player",
+      "sequence": "R1 R1 CIRCLE R2 UP DOWN UP DOWN UP DOWN"
+    },
+    {
+      "name": "Raise wanted level",
+      "category": "Player",
+      "sequence": "R1 R1 CIRCLE R2 LEFT RIGHT LEFT RIGHT LEFT RIGHT"
+    },
+    {
+      "name": "Commit suicide",
+      "category": "Player",
+      "sequence": "RIGHT L2 DOWN R1 LEFT LEFT R1 L1 L2 L1"
+    },
+    {
+      "name": "Big head mode",
+      "category": "Player",
+      "sequence": "UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT CIRCLE CROSS"
+    },
+    {
+      "name": "Random character skin",
+      "category": "Character",
+      "sequence": "RIGHT RIGHT LEFT UP L1 L2 LEFT UP DOWN RIGHT"
+    },
+    {
+      "name": "Play as Ricardo Diaz",
+      "category": "Character",
+      "sequence": "L1 L2 R1 R2 DOWN L1 R2 L2"
+    },
+    {
+      "name": "Play as Lance Vance",
+      "category": "Character",
+      "sequence": "CIRCLE L2 LEFT CROSS R1 L1 CROSS L1"
+    },
+    {
+      "name": "Play as Candy Suxxx",
+      "category": "Character",
+      "sequence": "CIRCLE R2 DOWN R1 LEFT RIGHT R1 L1 CROSS L2"
+    },
+    {
+      "name": "Play as Ken Rosenberg",
+      "category": "Character",
+      "sequence": "RIGHT L1 UP L2 L1 RIGHT R1 L1 CROSS R1"
+    },
+    {
+      "name": "Play as Hilary King",
+      "category": "Character",
+      "sequence": "R1 CIRCLE R2 L1 RIGHT R1 L1 CROSS R2"
+    },
+    {
+      "name": "Play as Jezz Torrent",
+      "category": "Character",
+      "sequence": "R1 L2 R2 L1 RIGHT R2 LEFT CROSS SQUARE L1"
+    },
+    {
+      "name": "Play as Dick",
+      "category": "Character",
+      "sequence": "DOWN L1 DOWN L2 LEFT CROSS R1 L1 CROSS CROSS"
+    },
+    {
+      "name": "Play as Phil Cassidy",
+      "category": "Character",
+      "sequence": "RIGHT R1 UP R2 L1 RIGHT R1 L1 RIGHT CIRCLE"
+    },
+    {
+      "name": "Play as Sonny Forelli",
+      "category": "Character",
+      "sequence": "CIRCLE L1 CIRCLE L2 LEFT CROSS R1 L1 CROSS CROSS"
+    },
+    {
+      "name": "Play as Mercedes",
+      "category": "Character",
+      "sequence": "R2 L1 UP L1 RIGHT R1 RIGHT UP CIRCLE TRIANGLE"
+    },
+    {
+      "name": "Spawn Rhino tank",
+      "category": "Spawn vehicle",
+      "sequence": "CIRCLE CIRCLE L1 CIRCLE CIRCLE CIRCLE L1 L2 R1 TRIANGLE CIRCLE TRIANGLE"
+    },
+    {
+      "name": "Spawn Bloodring Banger A",
+      "category": "Spawn vehicle",
+      "sequence": "UP RIGHT RIGHT L1 RIGHT UP SQUARE L2"
+    },
+    {
+      "name": "Spawn Bloodring Banger B",
+      "category": "Spawn vehicle",
+      "sequence": "DOWN R1 CIRCLE L2 L2 CROSS R1 L1 LEFT LEFT"
+    },
+    {
+      "name": "Spawn Hotring Racer A",
+      "category": "Spawn vehicle",
+      "sequence": "R1 CIRCLE R2 RIGHT L1 L2 CROSS CROSS SQUARE R1"
+    },
+    {
+      "name": "Spawn Hotring Racer B",
+      "category": "Spawn vehicle",
+      "sequence": "R2 L1 CIRCLE RIGHT L1 R1 RIGHT UP CIRCLE R2"
+    },
+    {
+      "name": "Spawn Romero's Hearse",
+      "category": "Spawn vehicle",
+      "sequence": "DOWN R2 DOWN R1 L2 LEFT R1 L1 LEFT RIGHT"
+    },
+    {
+      "name": "Spawn Love Fist limousine",
+      "category": "Spawn vehicle",
+      "sequence": "R2 UP L2 LEFT LEFT R1 L1 CIRCLE RIGHT"
+    },
+    {
+      "name": "Spawn Trashmaster",
+      "category": "Spawn vehicle",
+      "sequence": "CIRCLE R1 CIRCLE R1 LEFT LEFT R1 L1 CIRCLE RIGHT"
+    },
+    {
+      "name": "Spawn Sabre Turbo",
+      "category": "Spawn vehicle",
+      "sequence": "RIGHT L2 DOWN L2 L2 CROSS R1 L1 CIRCLE LEFT"
+    },
+    {
+      "name": "Spawn Caddy",
+      "category": "Spawn vehicle",
+      "sequence": "CIRCLE L1 UP R1 L2 CROSS R1 L1 CIRCLE CROSS"
+    },
+    {
+      "name": "Destroy all vehicles",
+      "category": "Vehicles and traffic",
+      "sequence": "R2 L2 R1 L1 L2 R2 SQUARE TRIANGLE CIRCLE TRIANGLE L2 L1"
+    },
+    {
+      "name": "Improved car handling",
+      "category": "Vehicles and traffic",
+      "sequence": "TRIANGLE R1 R1 LEFT R1 L1 R2 L1"
+    },
+    {
+      "name": "Drive on water",
+      "category": "Vehicles and traffic",
+      "sequence": "RIGHT R2 CIRCLE R1 L2 SQUARE R1 R2"
+    },
+    {
+      "name": "Flying cars",
+      "category": "Vehicles and traffic",
+      "sequence": "RIGHT R2 CIRCLE R1 L2 DOWN L1 R1"
+    },
+    {
+      "name": "Black traffic",
+      "category": "Vehicles and traffic",
+      "sequence": "CIRCLE L2 UP R1 LEFT CROSS R1 L1 LEFT CIRCLE"
+    },
+    {
+      "name": "Pink traffic",
+      "category": "Vehicles and traffic",
+      "sequence": "CIRCLE L1 DOWN L2 LEFT CROSS R1 L1 RIGHT CIRCLE"
+    },
+    {
+      "name": "Aggressive drivers",
+      "category": "Vehicles and traffic",
+      "sequence": "R2 CIRCLE R1 L2 LEFT R1 L1 R2 L2"
+    },
+    {
+      "name": "Change wheel size",
+      "category": "Vehicles and traffic",
+      "sequence": "R1 CROSS TRIANGLE RIGHT R2 SQUARE UP DOWN SQUARE"
+    },
+    {
+      "name": "Very sunny weather",
+      "category": "Weather and time",
+      "sequence": "R2 CROSS L1 L1 L2 L2 L2 DOWN"
+    },
+    {
+      "name": "Sunny weather",
+      "category": "Weather and time",
+      "sequence": "R2 CROSS L1 L1 L2 L2 L2 TRIANGLE"
+    },
+    {
+      "name": "Cloudy weather",
+      "category": "Weather and time",
+      "sequence": "R2 CROSS L1 L1 L2 L2 L2 SQUARE"
+    },
+    {
+      "name": "Foggy weather",
+      "category": "Weather and time",
+      "sequence": "R2 CROSS L1 L1 L2 L2 L2 CROSS"
+    },
+    {
+      "name": "Rainy weather",
+      "category": "Weather and time",
+      "sequence": "R2 CROSS L1 L1 L2 L2 L2 CIRCLE"
+    },
+    {
+      "name": "Speed up clock",
+      "category": "Weather and time",
+      "sequence": "CIRCLE CIRCLE L1 SQUARE L1 SQUARE SQUARE SQUARE L1 TRIANGLE CIRCLE TRIANGLE"
+    },
+    {
+      "name": "Slow motion",
+      "category": "Weather and time",
+      "sequence": "TRIANGLE UP RIGHT DOWN SQUARE R2 R1"
+    },
+    {
+      "name": "Fast motion",
+      "category": "Weather and time",
+      "sequence": "TRIANGLE UP RIGHT DOWN L2 L1 SQUARE"
+    },
+    {
+      "name": "Pedestrians riot",
+      "category": "Pedestrians",
+      "sequence": "DOWN LEFT UP LEFT CROSS R2 R1 L2 L1",
+      "warning": "Cannot be turned off. Do not save afterwards; reload an earlier save."
+    },
+    {
+      "name": "Pedestrians attack you",
+      "category": "Pedestrians",
+      "sequence": "DOWN UP UP UP CROSS R2 R1 L2 L2",
+      "warning": "Cannot be turned off. Do not save afterwards; reload an earlier save."
+    },
+    {
+      "name": "Pedestrians have weapons",
+      "category": "Pedestrians",
+      "sequence": "R2 R1 CROSS TRIANGLE CROSS TRIANGLE UP DOWN",
+      "warning": "Cannot be turned off. Do not save afterwards; reload an earlier save."
+    },
+    {
+      "name": "Police return from the dead",
+      "category": "Pedestrians",
+      "sequence": "CIRCLE L1 DOWN L2 LEFT CROSS R1 L1 RIGHT CROSS"
+    },
+    {
+      "name": "Ladies follow you",
+      "category": "Pedestrians",
+      "sequence": "CIRCLE CROSS L1 L1 R2 CROSS CROSS CIRCLE TRIANGLE"
+    },
+    {
+      "name": "Bikini girls with guns",
+      "category": "Pedestrians",
+      "sequence": "RIGHT L1 CIRCLE L2 LEFT CROSS R1 L1 L1 CROSS"
+    }
+  ]
+}
