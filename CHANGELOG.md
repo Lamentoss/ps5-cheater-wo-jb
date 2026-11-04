@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Mark Full armor as tested on a real console
+
 ## 0.1.0
 
 First release.

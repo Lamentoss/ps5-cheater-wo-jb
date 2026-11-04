@@ -107,7 +107,17 @@ class Database:
             key = f"seed:{data['game']['id']}:{data.get('revision', 1)}"
             if self.get_setting(key) is None:
                 self.import_pack(data, replace=False)
+                self._mark_verified(data)
                 self.set_setting(key, "1")
+
+    def _mark_verified(self, pack: dict) -> None:
+        # A new pack revision must not overwrite user edits, so only this flag moves.
+        slugs = [c.get("slug") or slugify(c["name"]) for c in pack["cheats"] if c.get("verified")]
+        with self._connect() as conn:
+            conn.executemany(
+                "UPDATE cheats SET verified = 1 WHERE game_id = ? AND slug = ?",
+                [(pack["game"]["id"], slug) for slug in slugs],
+            )
 
     def get_setting(self, key: str, default=None):
         with self._connect() as conn:

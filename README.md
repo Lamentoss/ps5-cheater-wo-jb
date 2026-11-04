@@ -72,7 +72,7 @@ The first run takes about 10 seconds to connect. Keep your hands off the control
 ## Good to know
 
 - In the Vice City pack, using a cheat permanently disables trophies on that save. Some cheats cannot be undone, and the app warns you about those. Keep a separate save.
-- Only **Full health and vehicle repair** has been confirmed by watching its effect on a real console. The other cheats come from a public list, so they are not marked as tested.
+- Only **Full health and vehicle repair** and **Full armor** have been confirmed by watching their effect on a real console. The other cheats come from a public list, so they are not marked as tested.
 - `Another Remote Play session` means the PS5 has not released the last one yet. The app retries for up to 40 seconds.
 
 ## Documentation

@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "game": {
     "id": "gta-vice-city-definitive-edition",
     "title": "GTA: Vice City - The Definitive Edition",
@@ -17,7 +17,8 @@
     {
       "name": "Full armor",
       "category": "Player",
-      "sequence": "R1 R2 L1 CROSS LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP"
+      "sequence": "R1 R2 L1 CROSS LEFT DOWN RIGHT UP LEFT DOWN RIGHT UP",
+      "verified": true
     },
     {
       "name": "Weapon set 1",

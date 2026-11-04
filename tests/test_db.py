@@ -20,7 +20,16 @@ def test_seed_sequences_are_valid_and_unique(db):
 
 def test_verified_flag_only_on_tested_cheat(db):
     verified = [cheat["slug"] for cheat in db.list_cheats(GAME) if cheat["verified"]]
-    assert verified == ["full-health-and-vehicle-repair"]
+    assert sorted(verified) == ["full-armor", "full-health-and-vehicle-repair"]
+
+
+def test_new_pack_revision_marks_verified_and_keeps_user_edits(db):
+    with db._connect() as conn:
+        conn.execute("UPDATE cheats SET verified = 0, name = 'Mine' WHERE slug = 'full-armor'")
+        conn.execute("DELETE FROM settings WHERE key LIKE 'seed:%'")
+    db.seed()
+    cheat = next(c for c in db.list_cheats(GAME) if c["slug"] == "full-armor")
+    assert cheat["verified"] and cheat["name"] == "Mine"
 
 
 def test_any_game_can_be_added(db):
